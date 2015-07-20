@@ -1,0 +1,4 @@
+version: 0.0.1a
+name: worldBackEnder
+main: net.ghostrealms.WorldBackEnd
+descrtipion: A backend plugin for server admins that allows users to download worlds.
